@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi，I'm Eric 👋
 
-<!--
-**ericxq27/ericxq27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Business Analytics
 
-Here are some ideas to get you started:
+Looking for internships in China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Baseing in Bath, UK and will back to China soon。
+
+➡️ [View My Portfolio](https://github.com/ericxq27/Data-Analyst-Portfolio)
+
+### Skills
+- **Programming Languages:** Python, SQL, R
+- **Tools:** Excel, PowerBI, Tableau
+- **Language：** Chinese(Native), English(C1)
+
+### Certifications
+- **DataCamp:** Associate Data Analyst, SQL Associate
