@@ -1,10 +1,11 @@
 ## Hi，I'm Eric 👋
 
-MSc student in Business Analytics
+MSc Business Analytics
+University of Bath
 
-Looking for internships in China
+Looking for a analyst role.
 
-📍 Baseing in Bath, UK and will back to China soon。
+📍 Baseing in Shanghai.
 
 ➡️ [View My Portfolio](https://github.com/ericxq27/Data-Analyst-Portfolio)
 
