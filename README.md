@@ -12,7 +12,7 @@ Looking for a analyst role.
 ### Skills
 - **Programming Languages:** Python, SQL, R
 - **Tools:** Excel, PowerBI, Tableau
-- **Language：** Chinese(Native), English(C1)
+- **Language：** Chinese(Native), English
 
 ### Certifications
 - **DataCamp:** Associate Data Analyst, SQL Associate
